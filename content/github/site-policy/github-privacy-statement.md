@@ -249,7 +249,7 @@ We provide more information about [cookies on GitHub](/github/site-policy/github
 
 ### How GitHub secures your information
 
-GitHub takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
+GitHub takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use IIof User Personal Information.
 
 GitHub enforces a written security information program. Our program:
 - aligns with industry recognized frameworks;
